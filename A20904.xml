@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of the Ladye Iane, a righte vertuous woman, to a learned man of late falne from the truth of Gods most holy word, for fear of the worlde read it, to thy consolacion : vvhereunto is added the communication that she had with Master Feckenham vpon her faith, and belefe of the sacraments : also another epistle whiche she wrote to her sister, with the words she spake vpon the scaffold befor she suffered, anno. M.D.Liiii.</title>
+            <author>Grey, Jane, Lady, 1537-1554.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1554</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20904</idno>
+            <idno type="STC">STC 7279</idno>
+            <idno type="STC">ESTC S1081</idno>
+            <idno type="EEBO-CITATION">20051016</idno>
+            <idno type="OCLC">ocm 20051016</idno>
+            <idno type="VID">23626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23626)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1727:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of the Ladye Iane, a righte vertuous woman, to a learned man of late falne from the truth of Gods most holy word, for fear of the worlde read it, to thy consolacion : vvhereunto is added the communication that she had with Master Feckenham vpon her faith, and belefe of the sacraments : also another epistle whiche she wrote to her sister, with the words she spake vpon the scaffold befor she suffered, anno. M.D.Liiii.</title>
+                  <author>Grey, Jane, Lady, 1537-1554.</author>
+                  <author>Feckenham, John de, 1518?-1585.</author>
+               </titleStmt>
+               <extent>[31] p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Day?,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1554?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A-B⁸.</note>
+                  <note>"This version is reprinted in STC 7281"--STC (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grey, Jane, --  Lady, 1537-1554.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:23626:1"/>
+               <pb facs="tcp:23626:1" rendition="simple:additions"/>
+AN EPISTLE OF the Ladye Iane a righte vertuous woman, To a learned man of late falne from the truth of Gods moſt holy word, for fear of the worlde.</p>
+            <p>Read it, to thy conſolacion.</p>
+            <p>VVherunto is added the com<g ref="char:EOLunhyphen"/>munication that ſhe had with maſter Feckenham vpon her faith, and belefe of the Sa<g ref="char:EOLhyphen"/>craments.</p>
+            <p>Alſo another Epiſtle whiche ſhe wrote to her ſiſter, with the words ſhe ſpake vpon the Scaffold befor ſhe ſuffered. Anno. M. D. Liiii.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <p>
+               <pb facs="tcp:23626:2"/>
+               <pb facs="tcp:23626:2" rendition="simple:additions"/>
+SO oftas I cal to mind the dreadful, &amp; feareful ſay<g ref="char:EOLhyphen"/>ings of god: that he whi<g ref="char:EOLhyphen"/>che laieth hold vpon the plough, and looketh back again, is not meete for the kyngdome of heauen. And on the other ſyde, to remember the comfortable words of our ſauiour Chriſt, to all thoſe that forſaking them ſelues, do fo<g ref="char:EOLhyphen"/>lowe him, I can not but meruel at thee, and lament thy caſe. That thou, which ſome tyme waſt the liuely member of Chriſt: but now the defourmed impe of the diuel, ſome time the beutiful temple of God: but now the ſtincking &amp; fil<g ref="char:EOLhyphen"/>thy kenell of Sathan, ſome tyme the vnſpotted ſpouſe of Chriſte, but nowe the vnſhamefaſt para<g ref="char:EOLhyphen"/>mour of Antichriſt, ſometyme my faithful brother: but now a ſtrau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ger and Apoſtata yea ſome tyme a ſtout chriſten ſouldier: but now a cowardly runawaye. So ofte as I conſider the threatninges &amp; pro<g ref="char:EOLhyphen"/>miſes of god to al thoſe that faith fully loue him: I can not but ſpeak to the, yea, rather cry out vpo<g ref="char:cmbAbbrStroke">̄</g> the, thou ſede of Satha<g ref="char:cmbAbbrStroke">̄</g>, &amp; not of Iuda
+<pb facs="tcp:23626:3"/>
+whom the deuill hathe deceiued, the worlde hath begiled, and de<g ref="char:EOLhyphen"/>ſire of life hath ſubuerted &amp; made the of a Chriſtia<g ref="char:cmbAbbrStroke">̄</g>, aninfidel. wher<g ref="char:EOLhyphen"/>fore haſt thou taken vpon the, the teſtame<g ref="char:cmbAbbrStroke">̄</g>t of the lord in thi mouth? wherefore haſt thou hitherto yel<g ref="char:EOLhyphen"/>ded thi body to the fire, and blo<g ref="char:EOLhyphen"/>di handes of cruel tirauntes? wher fore haſte thou inſtructed other to be ſtrong in Chriſt, when thou thy ſelfe doſt nowe ſo horribly abuſe the teſtament and law of the lord: when thou thy ſelfe preachedſt (not to ſteale) yet moſt abhomina<g ref="char:EOLhyphen"/>bly ſtealeſt (not from men) but fro<g ref="char:cmbAbbrStroke">̄</g> God, and as a moſt hainous ſacre<g ref="char:EOLhyphen"/>leger, robbeſt, Chriſt thi Lorde, of his right, of his members, thy bo<g ref="char:EOLhyphen"/>dy and thy ſoule<g ref="char:punc">▪</g> when thou thy ſelfe doſt rather choſe to liue mi<g ref="char:EOLhyphen"/>ſerably (with ſhame) to the world then to dye, and gloriouſlye with honour to taigne with Chriſt, In whom? euen in death, theris life. And when I ſay thou thy ſelfe art moſt weke, thou oughteſt, to ſhew thy ſelfe mooſt ſtronge. For the ſtrength of a forte, is not knowne
+<pb facs="tcp:23626:3" rendition="simple:additions"/>
+before the aſſaulte, but thou yel<g ref="char:EOLhyphen"/>deſt thy holde, before any battry be made.</p>
+            <p>Oh wretched and vnhappi man what art thou but duſt and aſhes? And wilte thou reſiſt thy maker that formed the, &amp; faſhioned the, wilt thou nowe forſake him that called the fro<g ref="char:cmbAbbrStroke">̄</g> coſtome gathering, among the Romiſh antichtiſtians to be an imbaſſadour and meſſen<g ref="char:EOLhyphen"/>ger of his eternall worde, he that firſt framed the: and ſince thi cre<g ref="char:EOLhyphen"/>ation, and birth preſerued the: no riſhed the: and kepte the: yea, &amp; in ſpired the with the ſpirit of kno<g ref="char:EOLhyphen"/>ledge: (I cannot ſay of grace) ſhal he not poſſeſſe the? Dareſt thou deliuer vp thy ſelfe to another, be<g ref="char:EOLunhyphen"/>ing not thine owne, but his? How canſt, thou hauinge knowledge, or how dareſt thou neglect the law of the lord: &amp; folow the vaine tradi<g ref="char:EOLhyphen"/>cions of men? And where as thou haſt bene a publicke profeſſour of his name, becom now a defacer of his glorye. I will thou refuſe the true GOD: and worſhippe the inuencio of manne, The golden
+<pb facs="tcp:23626:4"/>
+Calfe, the whoore of Babilon, the Romiſh religion, the abominable idol, the moſt wicked maſſe: wylt thou torment againe, rent &amp; teare the moſt precious bodi, of our Sa<g ref="char:EOLhyphen"/>uiour Chriſt, with thy bodily and fleſhly teeth? without the brea<g ref="char:EOLhyphen"/>king wherof vpon the croſſe, our ſinful ſinnes could els nowaies be redemed. wilt thou take vpon the to offer vp ani ſacrifice vnto God for our ſynnes? Conſydering that Chriſt offred vp him ſelf (as Paul ſaith) vpon the croſſe a lyuely ſa<g ref="char:EOLhyphen"/>crifice once for al.</p>
+            <p>Can neyther the puniſment of the Iſraelites (which for their ido latrye ſo oft they receaued) moue the, neyther the terrible threate<g ref="char:EOLhyphen"/>ninges of the auncient prophetes, ſtirrethee, nor the curſſes of gods owne mouth, feare the to honour any other god then hym? VVylte thou ſo regarde him, that ſpared not his deare and only ſonne for the, ſo deminiſhing, yea, vtterlye extinguiſhing his glori, that thou wilt attribute the praiſe &amp; honour to idols, which haue mouthes. &amp;
+<pb facs="tcp:23626:4" rendition="simple:additions"/>
+ſpeake not, eyes, and ſe not, eates and yet heare not: which ſhal pe<g ref="char:EOLhyphen"/>riſh with them that made them? what ſaith the prophet Barucke, wher he reciteth the epiſtel of Ie<g ref="char:EOLhyphen"/>remi, writte<g ref="char:cmbAbbrStroke">̄</g> to the captiue Iewes? Did he not forewarne them, that in Babilon thei ſhould ſe gods of gold, ſiluer, wood, &amp; ſtone, borne vpon mens ſhulders, to caſt a fear before the heathen, but be not ye afraide of them (ſaieth Ieremie) nor do as other do. But when you ſe other worſhip them, ſaye you in your hartes: it is thou (O Lord) that oughteſt only to be worſhip<g ref="char:EOLhyphen"/>ped: for as for the timber of thoſe gods, the Carpenter framed them and polyſhed them, yea, gylded be they, and laid ouer with ſiluer, and vayne thynges: and can not ſpeake. He ſheweth moreouer, the abuſe of their deckings, how the prieſts toke of their orname<g ref="char:cmbAbbrStroke">̄</g>ts, and appareled their women with<g ref="char:EOLunhyphen"/>all. Howe one holdeth a Septer, another a ſworde in hys hande, and yet can they iudge in no mat<g ref="char:EOLhyphen"/>ter, nor defend them ſelues, much
+<pb facs="tcp:23626:5"/>
+Ieſſe any other, from either batte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or murther, nor yet from gnawing of woormes, nor anye other euyll thing. Theſe, &amp; ſuch lyke words, ſpeaketh Ieremy vnto them, wher by he proueth them butvain thin<g ref="char:EOLhyphen"/>ges, and no gods. And at laſt he co<g ref="char:cmbAbbrStroke">̄</g> cludeth thus: Confounded be thei that worſhip the<g ref="char:cmbAbbrStroke">̄</g>. They wer war<g ref="char:EOLhyphen"/>ned by Ieremye, and thou as Iere<g ref="char:EOLhyphen"/>my, haſt warned other, &amp; art war<g ref="char:EOLhyphen"/>ned thy ſelfe, by many ſcriptures, in many places.</p>
+            <p>God ſaieth: he is a gelious god, which wil haue al honour, glorye, and worſhip geuen to him onlye. And Chriſt ſaith in the fourth of Luke to Sathan, whiche tempted him: euen to the ſame Sathan, the ſame Belſabub, the ſame dyueil, whyche hath preuayled againſte thee. It is written (ſaieth he) thou ſhalt honour the Lorde thy God, and him onelie ſhalt thou ſerue. Theſe and ſuch like do prohibite thee and al Chriſtians to worſhip anie other God then whiche was before all worldes: and laied the foundations bothe of heauen and
+<pb facs="tcp:23626:5" rendition="simple:additions"/>
+earth. And wilt thou honour a de<g ref="char:EOLhyphen"/>teſtable idol, inuented by Romiſh Popes, &amp; the abominable colledge of craftie Cardinals? Chriſt offred him ſelfe vp once for al, and wylte thou offer him vp againe dayly at thy pleaſure? But thou wilt ſaye<g ref="char:punc">▪</g> thou doſt it for a good entent. Oh ſincke of ſinne, Oh child of perdi<g ref="char:EOLhyphen"/>cion: Doeſt thou dreame therein a good entent, wher thy conſcience beareth the witnes, the promis of gods wrath toward the? How did Saule: who for that he dyſobeied the word of god for a good ente<g ref="char:cmbAbbrStroke">̄</g>t, was throwen fro<g ref="char:cmbAbbrStroke">̄</g> his worldli &amp; tem poral kingdome? Shalt thou then, that doſt ſo deface gods honor, &amp; robbe him of his right: inherit the eternal and heauenly kingdome? wilt thou for a good entent pluk Chriſte oute of heauen, and make hys deathe voyde, and deface the tryumphe of hys croſſe, offeryng hym vp daylye? VVylte thou ey<g ref="char:EOLhyphen"/>ther for feare of death, or hope of life, deny and refuſethi God, who enriched thi pouerti, healed thine infirmitie, &amp; yelded to this victori,
+<pb facs="tcp:23626:6"/>
+if thou couldeſt haue kept it? Doth thou not conſider that the thryde of lyfe, hangeth vpon hym that made the: who can (as his wyll is) either twine it hard, to laſt the lo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ger, or vntwine it againe to breake it the ſooner? Doeſt thou not re<g ref="char:EOLhyphen"/>member the ſaying of Dauid a notable king, which teacheth thee a myſerable wretche, in hys, ciiii. Pſalme, wher he ſayth: whe<g ref="char:cmbAbbrStroke">̄</g> thou takeſt away thy ſpirite (O Lorde) from men, they dye, and ar turned againe to their duſt, but whe<g ref="char:cmbAbbrStroke">̄</g> thou letteſt thy breath go fourth, they ſhalbe made, &amp; thou ſhalt renew the face of the earth?</p>
+            <p>Remember the ſaying of Chriſt in his Goſpel, who ſoeuer ſeeketh to ſaue hys lyfe, ſhall looſe it, but whoſoeuer wil leſe it for mi ſake, ſhal find it. And in another place: whoſoeuer loueth father or mo<g ref="char:EOLhyphen"/>ther aboue me: is not mete for me. For he that wyll be my dyſciple, muſt for ſake Father and Mother, and him ſelfe, &amp; take vp his croſſe and folow me. VVhat croſſe? the croſſe of infamy, &amp; ſhame, of mi<g ref="char:EOLhyphen"/>ſery
+<pb facs="tcp:23626:6" rendition="simple:additions"/>
+and pouerty, of affliction &amp; perſecution for hys names ſake.</p>
+            <p>Let the oft faliing of thoſe hea<g ref="char:EOLunhyphen"/>uenly ſhowres pearce thy ſtonye hart. Let the two edged ſword of gods holy word, ſhere a ſo<g ref="char:cmbAbbrStroke">̄</g>der the ſewed together ſino wes of world ly reſpectes, euen to the very ma<g ref="char:EOLhyphen"/>ri of thi carnal hart, that thou mai<g ref="char:EOLunhyphen"/>eſt once againe forſake thy ſelf, &amp; embrace Chriſt. And like as good ſubiectes wil not refuſe to haſard al in the defence of hys earthly &amp; temporall gouernour: So flye not lyke a white hewred milke ſoppe from thy ſtandynge, wherein thy chief captaine Chriſt hath ſet the in a rai of this life, Viriliter age co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>fortetur cortuum, &amp; ſuſtine Domi<g ref="char:EOLunhyphen"/>num. Fight manfullye, come lyfe, come death, the quarel is gods, &amp; vndoubtedly the victorye is ours. But thou wilt ſay: I wil not break vnitye. what, not the vnitie of Sa<g ref="char:EOLhyphen"/>than and his members? Not the v<g ref="char:EOLunhyphen"/>nitie of darknes, the agreement of Antichriſt and hys adhearentes? Nay, thou deceiueſt thy ſelf with fond imaginations of ſuche an v<g ref="char:EOLhyphen"/>nitie
+<pb facs="tcp:23626:7"/>
+as is amonge the enemyes of Chriſt. were not the falſe prophe<g ref="char:EOLhyphen"/>tes in an vnitie? were not Ioſephs brethren, and Iacobs ſonnes in an vnitie? wer not the heathen, as the Amelechites, the Fereſites and Ie<g ref="char:EOLhyphen"/>buſites in an vniti? I kepe no order but rather looke to mi matter. wer not the Scribes and Phariyſes in an vnitie? Doth not king Dauid te<g ref="char:EOLhyphen"/>ſtefie: Conuenerunt in vnu<g ref="char:cmbAbbrStroke">̄</g>, aduer<g ref="char:EOLhyphen"/>ſus Dominum? Yea, theeues and murtherers conſpyratours, haue theyr vnitie.</p>
+            <p>But marke my frende (ye frend) if thou be not Gods enemy. Ther is no vnitye, but wher Chriſt knit<g ref="char:EOLhyphen"/>teth the knotte among ſuch as be hys. Yea, be you wel aſſured, that where his truthe is reſident, the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is verefyed that he ſayeth: Non veni mittere pacem in terram, ſed gladium. That is, Chriſte came to ſet one againſt another: the ſonne againſt the father, the daughter a<g ref="char:EOLhyphen"/>gainſt the mother. Deceiue not thi ſelfe therfore with the glyſteryng and gloryous name of vnitye. For Antichriſt hath his vnitie, yet not
+<pb facs="tcp:23626:7" rendition="simple:additions"/>
+in deede, but in name. The agree<g ref="char:EOLhyphen"/>ment of euery man, is not an vniti, but a conſpiracie.</p>
+            <p>Thou haſt heard ſome threate<g ref="char:EOLhyphen"/>ninges, ſome curſes, and ſome ad<g ref="char:EOLhyphen"/>moniſhions oute of the Scripture, to thoſe that loue themſelues a<g ref="char:EOLhyphen"/>boue Chriſt. Thou haſt heard al<g ref="char:EOLhyphen"/>ſo, the ſharpe and byting wordes, to thoſe that denye him for loue of life. Saieth he not, that he that denieth me before men, I wyl de<g ref="char:EOLhyphen"/>nie hym, before my father in hea<g ref="char:EOLhyphen"/>uen? And to the ſame effecte wry<g ref="char:EOLhyphen"/>teth Sainte Paule. Hebru. vi. It is impoſſyble (ſaieth he) that they which be once lightned and haue teſted of the heauenly gyfte, and be partakers of the holy goſt, and haue taſted of the good worde of God, if they fal and ſlide away, it is impoſſible that they ſhuld be renewed againe by repentaunce, crucifiynge againe to them ſelues the ſo<g ref="char:cmbAbbrStroke">̄</g>ne of God, and making him a mocking ſtocke. And again (ſai<g ref="char:EOLhyphen"/>eth he) if we ſhal willinglie ſinne, after we haue receined the know<g ref="char:EOLhyphen"/>ledge of the truthe, there is no
+<pb facs="tcp:23626:8"/>
+oblation left for ſinne, but the ter<g ref="char:EOLunhyphen"/>rible expectation of iudgement, &amp; fire which ſhal deuour the aduer<g ref="char:EOLhyphen"/>ſaries. Thus S. Paule writeth, and this thou readeſt. And doſt thou not quake and tremble? well, yf theſe terrible &amp; thundring threat ninges cannot ſtur thee, to cleaue vnto Chriſt &amp; forſake the worlde: yet let the ſwete conſolacio<g ref="char:cmbAbbrStroke">̄</g>s and promiſes of the ſcriptures, let the example of Chriſt &amp; his Apoſtles, holi Martirs and Confeſſours, en<g ref="char:EOLhyphen"/>courage the to take faſter hold by Chriſt. Harken what he ſaith: bleſ<g ref="char:EOLunhyphen"/>ſed are you when men reuile you &amp; perſecute you for my ſake, Re<g ref="char:EOLhyphen"/>ioyce, &amp; be glad, for great is your reward in heauen. For ſo perſecu<g ref="char:EOLunhyphen"/>ted thei the prophets before you. Heare what Eſay ſaith: Feare not the curſſe of men, be not afraid of theyr blaſphem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es &amp; reuylynges, for wormes and mothes ſhal eate them vp like clothe &amp; wol, but my rightouſnes ſhal endure for euer, and my ſauing health, from gene<g ref="char:EOLhyphen"/>ration to generation. VVhat art thou then (ſaith he) that feateſt a
+<pb facs="tcp:23626:8" rendition="simple:additions"/>
+mortal man, the chylde of a man that fadeth away as doth the flo<g ref="char:EOLhyphen"/>wer, and forgetteſt the Lord that made the, that ſpread out the hea<g ref="char:EOLunhyphen"/>uens, and laid the foundations of the earth. I am the Lord thy God that maketh the ſea to tage, and to be ſtyl, who is the lord of hoſts. I ſhal put my word in thy mouth, and defend the, with the turning of a hand. And our ſauiour Chriſt ſaith to his diſciples: They ſhall accuſe you, and brynge you be<g ref="char:EOLhyphen"/>fote the princes and rulers, for mi names ſake. And ſome of you thei ſhal perſecute &amp; kil, but feare you not (ſaith he) neither care you not what you ſhal ſay, for it is mi ſpi<g ref="char:EOLunhyphen"/>rit that ſpeaketh in you, the hand of the higheſt fhal defe<g ref="char:cmbAbbrStroke">̄</g>d you, for the heates of your head are nom<g ref="char:EOLhyphen"/>bred, and none of them ſhall pea<g ref="char:EOLhyphen"/>riſh. I haue layed vp treaſure for you (ſaith he) wher no theefe can ſteale, nor moth corrupt, and hap<g ref="char:EOLunhyphen"/>pye are you, if you endure to the end. Feare not them (ſaith Chriſt) that haue power ouer the bodi on<g ref="char:EOLunhyphen"/>ly, but feare him that hath power
+<pb facs="tcp:23626:9"/>
+both ouer the bodi and ſoule. The world loueth her owne, and if ye wer of the world, the world wold loue you, but you ar mine, therfore the worlde doth hate you. Lette theſe and ſuche like conſolacions, out of the Sctyptures, ſtrengthen you to Godward. Let not the en<g ref="char:EOLhyphen"/>ſamples of holy men &amp; wemen, go out of your minde, as Daniel, &amp; the teaſt of the prophetes, of the thre Childre<g ref="char:cmbAbbrStroke">̄</g>, of Eleazarus that conſta<g ref="char:cmbAbbrStroke">̄</g>t father, of the vii. of the Machabes Children, of Peter, Paule, Steuen, &amp; other Apoſtles and holi Martirs in the beginning of the church. As of good Simeo<g ref="char:cmbAbbrStroke">̄</g> Archbiſhop of Se<g ref="char:EOLunhyphen"/>loma, and zetrophone, with infy<g ref="char:EOLhyphen"/>nite other vnder Sapores the king of the Perſians and Indians, who co<g ref="char:cmbAbbrStroke">̄</g>tempned al tormentes deuyſed by the tiraunts, for theyr Sauiours ſake. Returne, returne, againe into Chriſtes watre, &amp; as becommeth a faithful watriour, put on that ar<g ref="char:EOLhyphen"/>mour that S. Paule teacheth to be moſte neceſſatye for a Chriſtian man. And aboue all thynges take to you the ſhyelde of faythe.</p>
+            <p>
+               <pb facs="tcp:23626:9" rendition="simple:additions"/>
+And be ye prouoked by Chriſtes owne example to withſtande the deuil, to forſake the world, and to be come a true and faithful mem<g ref="char:EOLhyphen"/>ber of his miſtical body, who ſpa<g ref="char:EOLhyphen"/>red not his own body for our ſins. Thro we doune thy ſelfe with the feare of his thretned vengeaunce for this ſo great &amp; heinous offe<g ref="char:cmbAbbrStroke">̄</g>ce of Apoſtacy, and co<g ref="char:cmbAbbrStroke">̄</g>fort yout ſelfe on the other part with the mercy, bloud and promiſes of him that is ready to turne to you, when ſoe<g ref="char:EOLhyphen"/>uer thou tourne to him. Diſdaine not to com again with the loſt ſon ſeinge you haue ſo wandred with him. Be not aſhamed to tourne a<g ref="char:EOLhyphen"/>gain with him fro<g ref="char:cmbAbbrStroke">̄</g> the ſwil of ſtrau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>gers, to the delicates of the moſte bening and louing father, Ackno<g ref="char:EOLhyphen"/>ledginge, that you haue ſinned a<g ref="char:EOLhyphen"/>gainſt heauen and earth. Againſte heauen by ſtainynge his glorious name, and cauſed his moſt cinſere and pure worde to be euill ſpoken of, through you. Againſt earth, by offending your ſo many weak bre<g ref="char:EOLunhyphen"/>thren, to whom you haue bene a ſtomblinge blocke throughe your ſodaine ſlidinge.</p>
+            <p>
+               <pb facs="tcp:23626:10"/>
+Be not aſhamed to come againe with Marye, and to wepe bitterly with Peter, not only with ſheding of teares out of your bodely eyes: but alſo powring out the ſtreames of your heart, to waſh awaye out of the ſight of God, the filth and mire of your offenſiue fal. Be not aſhamed to ſaye with the Publi<g ref="char:EOLhyphen"/>cane: Lord be merciful to me a ſin<g ref="char:EOLunhyphen"/>ner. Remember the hortible hiſto<g ref="char:EOLunhyphen"/>ry of Iulien of old, and the lamen<g ref="char:EOLhyphen"/>table caſe of Fraunces Spira of late, whoſe caſe (me thyncketh) ſhould be yet ſo grene in your re<g ref="char:EOLhyphen"/>membrau<g ref="char:cmbAbbrStroke">̄</g>ce, that being a thing of our time, you ſhould fear the like inconuenience, ſeing that you are fallen into the like offe<g ref="char:cmbAbbrStroke">̄</g>ce. Laſt of al, let the liuely remembraunce of the laſt day be alwaies afore your eyes, remembring the terrour that ſuche ſhalbe in at that time, with the tunnagates and fugetiues fro<g ref="char:cmbAbbrStroke">̄</g> Chriſt, which ſetting more by the worlde, then by heauen, more by their life, the<g ref="char:cmbAbbrStroke">̄</g> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him that gaue the<g ref="char:cmbAbbrStroke">̄</g> their life, did ſhrink, yea did clean ſal away from him that neuer for<g ref="char:EOLhyphen"/>ſoke
+<pb facs="tcp:23626:10" rendition="simple:additions"/>
+them. And contrary wiſe the ineſtimable ioyes prepared for the<g ref="char:cmbAbbrStroke">̄</g> that feared no parel, nor dreading death, haue manfully fought, and victoriouſlye triu<g ref="char:cmbAbbrStroke">̄</g>phed oueral po<g ref="char:EOLhyphen"/>wer of darknes, ouer hel, death, &amp; damnation, through their moſt re<g ref="char:EOLhyphen"/>doubted captain Chriſt, who now ſtretcheth out his armes to receiue you, ready to fal vpon your necke and kiſſe you, and laſt of al to feaſt you with the deinties &amp; delicates of his own precious bloud, which vndoutedly, if it might ſta<g ref="char:cmbAbbrStroke">̄</g>d wyth his determinate purpoſe, he wold not let to ſhed againe, rather then you ſhould be loſt. To who<g ref="char:cmbAbbrStroke">̄</g> with the father and the holy ghoſt, be honoure, prayſe and glorye euerlaſting ly. Amen.</p>
+            <epigraph>
+               <q>
+                  <l>Be conſtant, be conſtant, feare not for payne:</l>
+                  <l>Chriſt hath redemed the, and heauen is thy gayne.</l>
+               </q>
+            </epigraph>
+         </div>
+         <div type="dialogue">
+            <pb facs="tcp:23626:11"/>
+            <head>A CERTAYNE COMMVNY<g ref="char:EOLhyphen"/>cation, betwene the Lady Iane, &amp; Maſter Feckenham, iiii. dayes be<g ref="char:EOLhyphen"/>fore her death, euen word for word, her own hand be<g ref="char:EOLhyphen"/>ing put therto.</head>
+            <head>Feckenham fitſt ſpeaketh.</head>
+            <sp>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat thing is required in a Chriſtian?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> To be<g ref="char:EOLhyphen"/>leue in God the Father, in God the ſonne, in god the holi goſt, thre perſons and one God. </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> Is ther nothing els required in a Chriſtian, but to be<g ref="char:EOLhyphen"/>leue in God?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> Yes, we muſt beleue in him, we muſt loue hym, with al our hart, with al our ſoule, and al our minde, and our neygh<g ref="char:EOLhyphen"/>bour as our ſelfe. </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> VVhy the<g ref="char:cmbAbbrStroke">̄</g> faith iuſtifieth not, nor ſaueth not.</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> Yes verely, ſaith (as S. Paule ſaith) only iuſtifieth. </p>
+            </sp>
+            <sp>
+               <speaker>Fec.</speaker>
+               <p> whi. ſ. Paul ſaith: if I haue al faith without loue, it is nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> True it is, for how can I loue hym, in whom I truſt not? Or howe can I truſt in him, who<g ref="char:cmbAbbrStroke">̄</g> I loue not? faith and loue agreeth both together, &amp; yet loue is comprehe<g ref="char:cmbAbbrStroke">̄</g>ded in faith. </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> Howe ſhall we loue our
+<pb facs="tcp:23626:11" rendition="simple:additions"/>
+neyghbour?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> To loue oure neyghbour, is to feede the hungri, clothe the naked, and geue drinke to the thirſty, and to do to hym, as we wold do to our ſelues. </p>
+            </sp>
+            <sp>
+               <speaker>Feck.</speaker>
+               <p> why then it is neceſſary to ſaluati<g ref="char:EOLhyphen"/>on to do good workes, and it it not ſufficient to beleue.</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> I deny that, and I affirme that faith only ſaueth. But it is mete for Chriſtia<g ref="char:cmbAbbrStroke">̄</g>s in token that thei folow their ma<g ref="char:EOLhyphen"/>ſter Chriſt, to do good workes, yet may we not ſay that thei profit to ſaluacio<g ref="char:cmbAbbrStroke">̄</g>. For although we haue al don al that we ca<g ref="char:cmbAbbrStroke">̄</g>, yet we be vnpro<g ref="char:EOLunhyphen"/>fitable ſeruauntes, and the fayth onelye in Chriſtes bloude, ſaueth. </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> How many ſacrameutes be there?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> Two, the one the ſacrament of Baptiſme, &amp; the o<g ref="char:EOLhyphen"/>ther the ſacrament of our Lordes ſuppet. </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> No, ther be. vii.</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> By what ſcripture find you that? </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> well, we will talke ther of hereafter. But what is ſig<g ref="char:EOLhyphen"/>nifyed by your two ſacramentes? Ian. Bi the ſacrame<g ref="char:cmbAbbrStroke">̄</g>t of baptiſme, I am waſhed with water, &amp; regene<g ref="char:EOLunhyphen"/>rated bi the ſpirit, &amp; that waſhing
+<pb facs="tcp:23626:12"/>
+is a toke<g ref="char:cmbAbbrStroke">̄</g> to me, that I am the child of God. The ſacrament of the lor<g ref="char:EOLunhyphen"/>des ſupper is offred vnto me as a ſure ſeale and teſtimoni, that I am by the bloud of Chriſte whiche <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhedde for me on the croſſe, mad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> partaket, of the euerlaſting kyng<g ref="char:EOLhyphen"/>dome. </p>
+            </sp>
+            <sp>
+               <speaker>Feck.</speaker>
+               <p> why<g ref="char:punc">▪</g> what do you receiue in that bread? Do you not receiue the very body and bloude of Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> No ſurelye, I do not beleue ſo, I thinck that at that ſupper ſireceiue neither fleſh, nor bloud, but only bread &amp; wine. The which breade when it is broken, &amp; the wine whe<g ref="char:cmbAbbrStroke">̄</g> it is dronke, putteth me in minde, how that for my ſins the body of Chriſt was broken, &amp; his bloud ſhed on the croſſe, and with that bread &amp; wine, I receyue the benefites that cam bi breaking of his bodi, &amp; bi the ſheddyng of his bloud on the croſſe for mi ſins. </p>
+            </sp>
+            <sp>
+               <speaker>Feck.</speaker>
+               <p> why doth not Chriſt ſpeake theſe wordes<g ref="char:punc">▪</g> take, eate, this is my bod<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? Require we ani plainer wor<g ref="char:EOLhyphen"/>des? Doth not he ſay that it is hys body?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> I graunt he ſaith ſo, &amp; ſo he ſaieth: I am the vine, I am <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, but yet he is neuer the
+<pb facs="tcp:23626:12" rendition="simple:additions"/>
+mote, the vine nor do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. Doth not S. Paull ſay, that he calleth thoſe things that are not as though thei were? God forbid that I ſhuld ſay that I eate the very natural bodi &amp; bloud of Chriſt, for then eyther I ſhuld pluk awai my rede<g ref="char:cmbAbbrStroke">̄</g>tio<g ref="char:cmbAbbrStroke">̄</g>, either els ther wer .ii. bodies, or .ii. chriſts or els. ii. bodies, the one body was tormented on the croſſe, &amp; then if thei did eate another body, the<g ref="char:cmbAbbrStroke">̄</g> ei<g ref="char:EOLhyphen"/>ther he had. ii. bodies, either els if his bodi wer eaten, it was not bro<g ref="char:EOLhyphen"/>ken vpo<g ref="char:cmbAbbrStroke">̄</g> the croſſe, or els if it were broken vpon the croſſe, it was not eaten of his diſciples. </p>
+            </sp>
+            <sp>
+               <speaker>Feck.</speaker>
+               <p> whi is it not as poſſible, that Chriſt by his power coulde make his bodye both to be eaten &amp; broken, as to be bore<g ref="char:cmbAbbrStroke">̄</g> of a woma<g ref="char:cmbAbbrStroke">̄</g>, without the ſede of ma<g ref="char:cmbAbbrStroke">̄</g>, &amp; as to walke on the ſea, ha<g ref="char:EOLhyphen"/>uing a body, &amp; other ſuch like mi<g ref="char:EOLhyphen"/>racles as he wrought by his power only?</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> Yesvereli if god wold haue done at his ſupper a miracle, he might haue don ſo, but I ſay he minded no worke nor miracle, but only to breake his bodi, &amp; ſhed his blud on the croſſe for our ſins. But
+<pb facs="tcp:23626:13"/>
+I pray you anſwer me to thys one queſtion, wher was Chriſt whe<g ref="char:cmbAbbrStroke">̄</g> he ſayd: Take, eate, this is my body? was not he at the table when he ſaid ſo? He was at that time aliue, and ſuffred not, til the next daye. well, what tooke he, but breade? and what brake he, but bread? and what gaue he, but breade? Looke what he toke, he brake, and looke what he brake, he gaue, and looke what he gaue, that did they eate, and yet al this while he hym ſelfe was at ſupper before his diſciples or els they were deceiued. </p>
+            </sp>
+            <sp>
+               <speaker>Feck.</speaker>
+               <p> You grou<g ref="char:cmbAbbrStroke">̄</g>d your faith, vpon ſuche authors as ſay &amp; vn ſay, both with a breathe, &amp; not vpon the church, to who<g ref="char:cmbAbbrStroke">̄</g> you ought to giue credyt.</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> No, I ground my faith vpon gods word, &amp; not vpo<g ref="char:cmbAbbrStroke">̄</g> the church. For if the church be a good chur<g ref="char:EOLhyphen"/>che, the faith of the churche muſt be tried by gods word, &amp; not gods word by the church, neither yet mi faith. Shall I beleue the churche, becauſe of antiquitie? Or ſhall I geue credit to that church, that ta<g ref="char:EOLunhyphen"/>keth awai from me, that half part
+<pb facs="tcp:23626:13" rendition="simple:additions"/>
+of the Lordes ſupper, and wyl let no lai ma<g ref="char:cmbAbbrStroke">̄</g> receiue it in both kindes: but the<g ref="char:cmbAbbrStroke">̄</g>ſelues? which thing if they denye to vs, thei denie vs parte of our ſaluation, and I ſay that is an euil church, and not the ſpouſe of Chriſt, but the ſpouſe of the diuel, that altreth the Lordes ſupper, &amp; both taketh from it, and addeth to it. To that churche I ſaye, God wil adde plages, &amp; fro<g ref="char:cmbAbbrStroke">̄</g> that church wyll he take their parte out of the booke of lyfe. Do you not learne that of S. Paul, when he miniſtred it to the Corinthians in both kyn<g ref="char:EOLhyphen"/>des? Shall I beleue that churche? God forbid. </p>
+            </sp>
+            <sp>
+               <speaker>Fecken.</speaker>
+               <p> That was done of a good intent of the chur<g ref="char:EOLhyphen"/>che to auoide an hereſi that ſpro<g ref="char:cmbAbbrStroke">̄</g>g on it.</p>
+            </sp>
+            <sp>
+               <speaker>Iane.</speaker>
+               <p> whi, ſhal the church alter gods wil and ordinau<g ref="char:cmbAbbrStroke">̄</g>ces, for a good intent? How did king Saul the lord define. with theſe &amp; ſuch like perſwaſions. He wolde haue had me to haue leaned to the chur<g ref="char:EOLunhyphen"/>che, but it would not be. Ther wer many mo thinges, wherof we rea<g ref="char:EOLhyphen"/>ſoned, but theſe wer the chief.</p>
+            </sp>
+            <p>Be me Iane Dudley.</p>
+            <p>
+               <pb facs="tcp:23626:14"/>
+Theſe woordes were ſpoken o<g ref="char:EOLhyphen"/>penlye. After this Maſter Fecken<g ref="char:EOLhyphen"/>ham tooke his leaue ſayinge: that he was ſorie for her. For (ſaid he) I am ſure we two ſhal neuer mete<g ref="char:punc">▪</g> Trothe it is (quoth ſhe) that wee ſhal neuer mete, vnleſſe god turne your hart<g ref="char:punc">▪</g> For I am ſure (vnles you repent and turne to God) you ar in an euyl caſe, and I pray to god, in the bowels of his mercie, to ſende you his holy ſpirite. For he hath geuen you his great gift of vt<g ref="char:EOLhyphen"/>teraunce, if it pleaſe him to open the eyes of your hart to his truth And ſo ſhe depar<g ref="char:EOLhyphen"/>ted.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:23626:14" rendition="simple:additions"/>
+            <head>AN EXORTATION written by the Lady Iane the night before ſhe ſuffered, in the ende of the New-teſtament in Greke, whiche ſhe ſent to her ſiſter, Lady Katetine.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Haue here ſent you good ſiſter Katetine, a booke: which although it be not outwardly trimmed with gold, yet inwardli it is more worth the<g ref="char:cmbAbbrStroke">̄</g> precious ſtones. It is the boke (deare Siſter) of the Lawe of the Lorde. It is his teſtament and laſt will, which he bequethed vnto vs wretches, whiche ſhall leade you to the path of eternall ioye. And if you with a good mynde read it, and with an erneſt deſire folowe it, it ſhal bring you to an immortal and euerlaſting life. It will teache you to liue and learne you to dye. It ſhal winne you more, then you ſhould haue gained by the poſſe<g ref="char:EOLhyphen"/>ſſion of your woful fathers landes For as if God had proſpered him
+<pb facs="tcp:23626:15"/>
+you ſhould haue inherited his la<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>des: ſo if you appli diligently this boke, ſeking to direct your life af<g ref="char:EOLhyphen"/>ter it, you ſhalbe an inheritour of ſutche riches, as neither the coue<g ref="char:EOLhyphen"/>tous ſhal withdtaw from you, ne<g ref="char:EOLhyphen"/>ther the theife ſhal ſteale, neither yet the mothes corrupte. Deſire with Dauid (good ſiſter) to vnder<g ref="char:EOLunhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>d the law of the lotd your god. Liue ſtil to dye, that you by death maye purchaſe eternall life. And truſt not that the te<g ref="char:cmbAbbrStroke">̄</g>dernes of your age, ſhal le<g ref="char:cmbAbbrStroke">̄</g>gthen your life: For aſ<g ref="char:EOLhyphen"/>ſone (if God cal) goth the yong as the olde. And laboure alwaye to learne to die. Deny the world, de<g ref="char:EOLhyphen"/>fie the deuil, and diſpiſethe fleſh and delight your ſelfe only in the Lord. Be penitent for your ſinnes and yet diſpaire not: Be ſtrong in ſaith, and yet preſume not: and deſire with S. Paull, to bee diſſol<g ref="char:EOLhyphen"/>ued, and to be with Chriſte, with whom, euen in death ther is life.</p>
+            <p>Be like the good ſeruaut, and euen at midnight be wakig: Leaſt when death commeth and ſteale vppon you like a theſe in the nighte, you
+<pb facs="tcp:23626:15" rendition="simple:additions"/>
+be with the deuils ſeruaunt found ſleping: and leaſt for lacke of oyle ye bee founde like the fiue foliſhe wemen, and like him that had not on the wedding garment, and the<g ref="char:cmbAbbrStroke">̄</g> you be caſt out from the Mariage. Reioyce in Chriſt, as I truſt ye do. And ſeinge ye haue the name of a Chriſtian, as nere as ye can, folow the ſteppes of your maſter Chriſt, and take vp your croſſe, lay your ſinnes on his backe, and alwaies imbrace him. And as touching my death, reioice as I do (good ſiſter) that I ſhalbe deliuered of this cor<g ref="char:EOLunhyphen"/>ruption, and put on vncorruption. For I am aſſured, that I ſhall for loſing of a mortal life, winne an immortal life. The which I praye God graunt you, ſende you of his grace to liue in his feare, and to die in the true Chriſtian ſaith. Fro<g ref="char:cmbAbbrStroke">̄</g> the which in gods name I exhorte you that ye neuer ſwar ue, neither for hope of life, ner fear of death For if ye wil deny his truth, to le<g ref="char:cmbAbbrStroke">̄</g>g then your life: God wil deny you, and yet ſhorten your daies, And if ye wil cleaue to him, he wil pro<g ref="char:EOLhyphen"/>long
+<pb facs="tcp:23626:16"/>
+your daies, to your comforte and his glory. To the which glo<g ref="char:EOLhyphen"/>ry, God bringe me nowe, and you hereafter, whan it ſhal pleaſe god to cal you. Far well good ſiſter and put your onlye truſtin God, who onely muſt helpe you. Amen.</p>
+            <closer>
+               <signed>Your louing ſiſter, Iane Dudley.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Lady Ianes wordes vpon the Scaffold.</head>
+            <p>GOod Chriſten people, I am vnder a lawe and by a law I am coudempned to dye, not for ani thing I haue offended the quenes Maieſti, for I wil waſh my hands giltles therof, but only for that I co<g ref="char:cmbAbbrStroke">̄</g>ſe<g ref="char:cmbAbbrStroke">̄</g>ted to the thing which I was inforced vnto. Not withſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ding I haue offended almyghtie god, for that I haue felowed ouer much the luſt of mi fleſh, and the pleaſure of this wretched world, and I haue not liued according to the knowledge that God hath ge<g ref="char:EOLunhyphen"/>uen me, whetfote God harh pla<g ref="char:EOLhyphen"/>ged me nowe wyth thys kinde of
+<pb facs="tcp:23626:16" rendition="simple:additions"/>
+death, and that worthelye accor<g ref="char:EOLhyphen"/>dyng to my deſertes. Howe be it I thancke him hartelie that he hath geuen me time to repent my ſyns here in this world, wherfor good Chriſtian people, I ſhall deſyre you all to pray with me, &amp; for me while I am now aliue, that god of his goodnes will forgeue me my ſinnes. And I pray you al to beare me witneſſe, that I here dye a true Chriſtian woman, and that I truſte to be ſaued by the bloud of Ieſus Chriſt, and bi none other meanes, and now I pray you al, pray for me and with me, &amp; ſo ſaid the pſalm of Miſerere mei, that don, ſhe ſai<g ref="char:EOLhyphen"/>ed Lorde ſaue my ſoule, whyche now I commend into thy ha<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>des, and ſo prepared her<g ref="char:EOLunhyphen"/>ſelfe meekelie to the blocke.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
